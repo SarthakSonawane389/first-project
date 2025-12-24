@@ -1,0 +1,34 @@
+#box{
+    
+    background-color: bisque;
+    height: 200px;
+    border-radius: 10px;
+    width:300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#timebox{
+    height: 100px;
+    width: 250px;
+    background-color: azure;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+#b1{
+    background-color: azure;
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+    width: 60px;
+    color: rgb(232, 185, 128);
+}
+#b2{
+    background-color: azure;
+    border: none;
+    height: 30px;
+    width: 60px;
+    color: rgb(232, 185, 128);
+    border-radius: 10px;
+}
