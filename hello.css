@@ -15,7 +15,14 @@
     background-color: azure;
     margin-bottom: 20px;
     border-radius: 10px;
+    font-size: 50px;
+    text-align: center;
+    color: bisque;
+    letter-spacing: 3px;
+    padding-top: 15px;
+    
 }
+
 #b1{
     background-color: azure;
     border: none;
